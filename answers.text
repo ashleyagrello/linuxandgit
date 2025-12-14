@@ -1,0 +1,26 @@
+1. Write a list of Linux commands that you used in this assignment and 
+what each one is used for:
+
+sudo unminimize - download more default linux packages
+pwd - check which directory you are currently in
+mkdir - create a directory (folder)
+cd - directory navigation command
+ls - list directory contents
+-l : a linux flag to list one file per line
+-t : a linux flag to sort by modification time
+-r : a linux flag to sort in reverse order
+cat: print a file to standard output (screen)
+pico: open pico file editor
+
+
+2. Write a list of git commands that you used in this assignment and
+what each one is used for:
+
+git config - configure git settings
+git clone - clone github repository to current location
+git status - check status of local repository
+git add - adds a new file or group of files to list to be updated during
+	the next git commit
+git commit - commits changes to repo (only the files selected by git add)
+git push - push committed changes to the local repository, specified by a URL
+
